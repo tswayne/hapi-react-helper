@@ -1,0 +1,24 @@
+{
+  "name": "hapi-react-helper",
+  "version": "1.0.0",
+  "description": "Plugin to easily add react to your hapi app using react-helper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tswayne/hapi-react-helper.git"
+  },
+  "keywords": [
+    "hapi",
+    "react",
+    "react-helper"
+  ],
+  "author": "Tyler Swayne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tswayne/hapi-react-helper/issues"
+  },
+  "homepage": "https://github.com/tswayne/hapi-react-helper#readme"
+}
